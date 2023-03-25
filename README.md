@@ -5,6 +5,18 @@ CEN A 2023 projects
 * Group 1 - https://github.com/evaveli/CEN-SE-2023
 * Group 2 - [insert link here]
 * Group 3 - [insert link here]
+* Group 4 - [insert link here]
+* Group 5 - [insert link here]
+* Group 6 - https://github.com/griseldahysa/Group6-project.git
+* Group 7 - 
 
 CEN B 2023 projects 
 
+* Group 1 - https://github.com/evaveli/CEN-SE-2023
+* Group 2 - [insert link here]
+* Group 3 - [insert link here]
+* Group 4 - https://github.com/LiviaTalelli/SPECAT
+* Group 5 - https://github.com/alisashehaj/Train-Management
+* Group 6 - [insert link here]
+* Group 7 - [insert link here]
+* Group 8 - [insert link here]
