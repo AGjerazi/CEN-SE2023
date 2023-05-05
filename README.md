@@ -13,7 +13,7 @@ CEN A 2023 projects
 CEN B 2023 projects 
 
 * Group 1 - https://github.com/EnrisKumi/Project_SWE
-* Group 2 - [insert link here]
+* Group 2 - https://github.com/TechSystemsAL/TechPlaza
 * Group 3 - [insert link here]
 * Group 4 - https://github.com/LiviaTalelli/SPECAT
 * Group 5 - https://github.com/alisashehaj/Train-Management
