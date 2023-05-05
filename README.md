@@ -1,9 +1,6 @@
 # CEN-SE2023
 
 CEN A 2023 projects 
-<h1>WEEK 1</h1>
-
-<hr>
 
 * Group 1 - https://github.com/kocaqi/PetStoreAndClinic
 * Group 2 - https://github.com/evaveli/CEN-SE-2023
