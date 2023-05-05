@@ -2,6 +2,8 @@
 
 CEN A 2023 projects 
 
+<hr>
+
 * Group 1 - https://github.com/kocaqi/PetStoreAndClinic
 * Group 2 - https://github.com/evaveli/CEN-SE-2023
 * Group 3 - https://github.com/enkelm/CheckInn
